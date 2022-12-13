@@ -1,0 +1,24 @@
+{
+  "name": "chess-on-blockchain",
+  "version": "1.0.0",
+  "description": "Smart contract to keep chess game on blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidmusialik898/chess-on-blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawidmusialik898/chess-on-blockchain/issues"
+  },
+  "homepage": "https://github.com/dawidmusialik898/chess-on-blockchain#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4"
+  }
+}
